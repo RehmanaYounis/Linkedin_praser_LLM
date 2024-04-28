@@ -1,0 +1,11 @@
+import requests
+
+api_key = '9lCv4pTuXG_a_W_h6Qk2Og'
+headers = {'Authorization': 'Bearer ' + api_key}
+api_endpoint = 'https://nubela.co/proxycurl/api/v2/linkedin'
+params = {
+    'url': 'https://www.linkedin.com/in/rehmana-younis/'
+}
+response = requests.get(api_endpoint,
+                        params=params,
+                        headers=headers)

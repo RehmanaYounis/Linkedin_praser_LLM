@@ -1,0 +1,33 @@
+{
+    "public_identifier": "rehmana-younis",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/rehmana-younis/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240420%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240420T180214Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=35f94454a2ac73ccf3dfbdb5c06db078665c72192788c71efc88535826198cd1",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/rehmana-younis/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240420%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240420T180214Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=61984480c723df5eacb85f5ae3e7de2d928c04a274aefbc9d021521db0ff4b06",
+    "first_name": "Rehmana",
+    "last_name": "Younis",
+    "full_name": "Rehmana Younis",
+    "follower_count": null,
+    "occupation": "Graduate Research Assistant at Columbus State University",
+    "headline": "AI Tech Research Intern @Georgia Tech | Currently pursuing MS Robotics Engineering Program",
+    "summary": "Artificial Intelligence (AI) professional with extensive experience in data science, programming, academics, and industry. Skilled in Python, Machine Learning/Deep Learning Libraries including Tensorflow/Keras, Scikit-learn, Numpy, Seaborn, Pandas, Matplotlib, Plotly, TKinter, Gensim, BeautifulSoup, Media Pipe. Worked on platforms including AWS Sagemaker, S3, SNS, AWS Sagemaker lab Studio, Docker, GIT, Power BI, Apache Spark, Scala, Spark SQL, Spark ML",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "United States",
+    "state": null,
+    "experiences": [
+      {
+        "starts_at": {
+          "day": 1,
+          "month": 8,
+          "year": 2021
+        },
+        "ends_at": null,
+        "company": "Columbus State University",
+        "company_linkedin_profile_url": "https://www.linkedin.com/company/columbus-state-university",
+        "title": "Graduate Research Assistant",
+        "description": "Working with key campus stakeholders to develop and articulate proposed Big Data manipulation and visualization solutions to optimize database operation using Apache Spark, and Scala focusing on parallel distributed database processing. The Project is under implementation.\n\nWorking on a data science project to predict student admission influences and designing methodologies to enhance the student admission rate per program by 5 percent.\n\nTraining graduate students to implement Machine Learning, Deep Learning, and data science projects. Common Libraries used (TensorFlow, Pandas, Numpy, Scikit-learn, Seaborn, Plotly, Matplotlib)",
+        "location": "Columbus, Georgia, United States",
+        "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEn800ZA9LzOg/company-logo_100_100/0/1519856373160?e=2147483647&v=beta&t=6yoZVrJqPA9r1YMSdM3mGbeNB0ORphrLP09SYfgI7eQ"
+      }
+    ]
+  }
+  
